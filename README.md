@@ -25,3 +25,5 @@ Ten projekt został utworzony w celach edukacyjnych.
 **To jest pogrubiony tekst.**
 
 *To jest tekst pisany kursywą.*
+
+Testowy **tekst**
