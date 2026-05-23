@@ -1,4 +1,4 @@
-## moje-pierwsze-repo
+# moje-pierwsze-repo MAIN PROJCET
 # Mój pierwszy projekt GitHub
 
 ## Opis projektu
