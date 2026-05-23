@@ -1,4 +1,4 @@
-## moje-pierwsze-repo
+## moje-pierwsze-repo CONFLICT-DEMO
 # Mój pierwszy projekt GitHub
 
 ## Opis projektu
